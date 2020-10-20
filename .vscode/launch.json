@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mainApp",
+            "request": "launch",
+            "mainClass": "src.mainApp",
+            "projectName": "SymptomChecker_84368a17"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "args": "",
+            "console": "internalConsole",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-mainApp<SymptomChecker_84368a17>",
+            "request": "launch",
+            "mainClass": "mainApp",
+            "projectName": "SymptomChecker_84368a17"
+        }
+    ]
+}
